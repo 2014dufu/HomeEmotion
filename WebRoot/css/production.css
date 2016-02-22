@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+#myVideo_div{
+	width:1200px;
+	height:250px;
+	margin:0 auto;
+	border:1px solid orange;
+}
+ul{
+	padding:0px;
+	list-style-type:none;
+}
+p{
+	height:30px;
+	line-height:30px;
+	margin:10px 0 0 10px;
+	font-size:20px;
+}
+#myAudio_div{
+	width:1200px;
+	height:250px;
+	margin:0 auto;
+	border:1px solid orange;
+}
+#myPicture_div{
+	width:1200px;
+	height:250px;
+	margin:0 auto;
+	border:1px solid orange;
+}
+.uploading{
+	width:250px;
+	height:250px;
+	float:left;
+}
+.production_div{
+	height:30px;
+	line-height:30px;
+	border-bottom:1px solid #cccccc;
+}
+.production_div span{
+	margin-left:5px;
+}
+.production_div a{
+	color:#ffffff;
+	text-decoration:none;
+	padding:0 10px;
+	text-align:center;
+	background-color:orange;
+	margin-left:5px;
+	float:right;
+}
+.left_div{
+	width:474px;
+	height:250px;
+	border-right:1px solid orange;
+	float:left;
+}
+.right_div{
+	width:474px;
+	height:250px;
+	float:left;
+}

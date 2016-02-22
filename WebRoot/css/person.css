@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+div.ul,li{
+	margin:0px;
+	padding:0px;
+}
+#person_information_div{
+	width:800px;
+	height:700px;
+	margin:0 auto;
+	border:1px solid orange;
+}
+#person_information_div p{
+	height:30px;
+	line-height:30px;
+	color:#ffffff;
+	font-weight:bold;
+	background-color:orange;
+	text-align:center;
+}
+.detail_div{
+	height:30px;
+	line-height:30px;
+	width:780px;
+	margin:10px 5px;
+	padding:0 0 0 10px;
+	border:1px solid #cccccc;
+}
+.detail_div span{
+	margin-left:20px;
+	font-size:14px;
+	color:#AAAAAA;
+}
+#password_div{
+	height:80px;
+	width:780px;
+}
+#password_div span{
+	margin-top:-20px;
+	margin-left:40px;
+	margin-bottom:30px;
+	display:block;
+}
+#password_div a{
+	font-size:12px;
+	text-decoration:none;
+	margin-left:5px;
+}
+#head_div{
+	height:110px;
+	width:780px;
+}
+.detail_div button{
+	width:80px;
+	height:30px;
+	margin:0 auto;
+	background-color:orange;
+	color:#ffffff;
+}
+
+#head_div img{
+	height:80px;
+	width:80x;
+	margin:10px 0 0 5px;
+	vertical-align:middle;
+	border:1px solid orange;
+}
+#upload_span{
+	text-decoration:none;
+}
